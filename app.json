@@ -23,5 +23,5 @@
     }
   },
   "image": "heroku/nodejs",
-  "addons": ["mongolab"]
+  "addons": ["mongolab", "heroku-redis"]
 }
